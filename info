@@ -1,0 +1,5 @@
+
+
+windows --> type sample.md | parserPython.py > sampleNew.html
+
+Linux --> cat sample.md | parserPython.py > sampleNew.html
